@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.drag.and.drop.DragAndDropTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-23T05:33:26" hostname="DESKTOP-9TKB724" time="35.914">
+  <properties/>
+  <testcase name="drag_and_drop_test" classname="com.bridgelabz.selenium.drag.and.drop.DragAndDropTest" time="35.914"/>
+  <system-out><![CDATA[FAIL: File couldn't be dropped to target as expected
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
